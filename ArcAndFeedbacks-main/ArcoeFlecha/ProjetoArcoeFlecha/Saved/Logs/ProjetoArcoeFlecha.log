@@ -4988,3 +4988,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.16-22.31.41:883][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.06.16-22.31.41:894][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
 [2022.06.16-22.31.41:945][712]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.06.16-22.32.24:592][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.06.16-22.32.24:825][918]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FirstPersonExampleMap_Auto2C05C4D364F8F68B581B9C2A90EC29D5E.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/Autosaves/Game/MyGame/FirstPersonExampleMap_Auto2.umap'
+[2022.06.16-22.32.24:828][918]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyGame/FirstPersonExampleMap' took 0.263
+[2022.06.16-22.32.24:828][918]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.263
+[2022.06.16-22.32.24:829][918]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/flechas] ([4] browsable assets)...
+[2022.06.16-22.32.24:839][918]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/flechas.flechas]
+[2022.06.16-22.32.24:850][918]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/flechas.flechas]
+[2022.06.16-22.32.24:850][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/flechas]
+[2022.06.16-22.32.24:850][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/flechas" FILE="F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/Autosaves/Game/flechas_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.06.16-22.32.24:891][918]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/flechas_Auto2C9DAE2D54E200A13DABC889FEBD1AE7F.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/Autosaves/Game/flechas_Auto2.uasset'
+[2022.06.16-22.32.24:893][918]LogFileHelpers: Auto-saving content packages took 0.064
+[2022.06.16-22.34.43:010][752]BlueprintLog: New page: Compile flechas
+[2022.06.16-22.34.43:065][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.06.16-22.34.58:198][ 93]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Ground_8m_PathwayCurve2)
+[2022.06.16-22.34.59:090][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FenceSmallB_2m247)
+[2022.06.16-22.42.25:011][372]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.06.16-22.42.25:015][372]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyGame/FirstPersonExampleMap' took 0.037
+[2022.06.16-22.42.25:015][372]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/flechas] ([4] browsable assets)...
+[2022.06.16-22.42.25:029][372]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/flechas.flechas]
+[2022.06.16-22.42.25:042][372]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/flechas.flechas]
+[2022.06.16-22.42.25:042][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/flechas]
+[2022.06.16-22.42.25:042][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/flechas" FILE="F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/Autosaves/Game/flechas_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.06.16-22.42.25:085][372]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/flechas_Auto3F7B035EA434FC003187B51B7A27DA75B.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/Autosaves/Game/flechas_Auto3.uasset'
+[2022.06.16-22.42.25:086][372]LogFileHelpers: Auto-saving content packages took 0.072
+[2022.06.16-22.43.39:888][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.16-22.43.40:100][651]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FirstPersonExampleMapA7D19B5A4013490AEC46959680C736CA.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/FirstPersonExampleMap.umap'
+[2022.06.16-22.43.40:125][651]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.06.16-22.43.40:125][651]LogContentValidation: Display: Validating World /Game/MyGame/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.06.16-22.43.51:576][103]LogDirectoryWatcher: Display: A directory notification failed for 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.06.16-22.43.51:576][103]LogDirectoryWatcher: Display: A directory notification failed for 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/Developers/Petrus/Collections/' because it could not be accessed. Aborting watch request...
+[2022.06.16-22.43.51:657][107]LogDirectoryWatcher: Display: A directory notification failed for 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/Collections/' because it could not be accessed. Aborting watch request...
