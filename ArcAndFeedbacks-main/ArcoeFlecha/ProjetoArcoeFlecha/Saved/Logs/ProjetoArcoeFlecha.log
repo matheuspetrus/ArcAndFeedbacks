@@ -975,3 +975,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.21-04.39.13:463][760]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FirstPersonExampleMapC08731374FF585EC039C75BD12842D11.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/FirstPersonExampleMap.umap'
 [2022.06.21-04.39.13:489][760]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2022.06.21-04.39.13:489][760]LogContentValidation: Display: Validating World /Game/MyGame/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.06.21-04.39.36:923][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.06.21-04.39.37:159][130]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FirstPersonExampleMap8ED4DD2945F37D6B0F0A3B8B2D4749CB.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/FirstPersonExampleMap.umap'
+[2022.06.21-04.39.37:180][130]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.06.21-04.39.37:180][130]LogContentValidation: Display: Validating World /Game/MyGame/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.06.21-04.39.47:564][298]Cmd: DELETE
+[2022.06.21-04.39.47:564][298]Cmd: ACTOR DELETE
+[2022.06.21-04.39.47:619][298]LogEditorActor: Deleted Actor: FlechaCol_BP_C
+[2022.06.21-04.39.47:643][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.06.21-04.39.47:646][298]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2022.06.21-04.40.04:932][738]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.06.21-04.40.17:677][601]BlueprintLog: New page: Compile FlechaCol_BP
+[2022.06.21-04.40.17:720][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.06.21-04.40.18:489][644]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FlechaCol_BPA61FBB974054C7458907DC80BD590A2F.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/coletavel/FlechaCol_BP.uasset'
+[2022.06.21-04.40.18:504][644]AssetCheck: New page: Asset Save: FlechaCol_BP
+[2022.06.21-04.40.18:504][644]LogContentValidation: Display: Validating Blueprint /Game/MyGame/coletavel/FlechaCol_BP.FlechaCol_BP
+[2022.06.21-04.40.19:608][720]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FlechaCol_BP9A9D41F1450C6A0B09CB7D8DBBC16861.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/coletavel/FlechaCol_BP.uasset'
+[2022.06.21-04.40.19:622][720]AssetCheck: New page: Asset Save: FlechaCol_BP
+[2022.06.21-04.40.19:622][720]LogContentValidation: Display: Validating Blueprint /Game/MyGame/coletavel/FlechaCol_BP.FlechaCol_BP
+[2022.06.21-04.40.19:824][732]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FlechaCol_BP5BFD48B44D9F9564033BB392433E4934.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/coletavel/FlechaCol_BP.uasset'
+[2022.06.21-04.40.19:837][732]AssetCheck: New page: Asset Save: FlechaCol_BP
+[2022.06.21-04.40.19:837][732]LogContentValidation: Display: Validating Blueprint /Game/MyGame/coletavel/FlechaCol_BP.FlechaCol_BP
+[2022.06.21-04.40.20:043][744]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FlechaCol_BP9AF5D41F4B5D83BB7CB2868F9BC362A5.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/coletavel/FlechaCol_BP.uasset'
+[2022.06.21-04.40.20:056][744]AssetCheck: New page: Asset Save: FlechaCol_BP
+[2022.06.21-04.40.20:057][744]LogContentValidation: Display: Validating Blueprint /Game/MyGame/coletavel/FlechaCol_BP.FlechaCol_BP
