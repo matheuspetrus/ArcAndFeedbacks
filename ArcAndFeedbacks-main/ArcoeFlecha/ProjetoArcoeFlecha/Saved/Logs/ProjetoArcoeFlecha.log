@@ -1556,3 +1556,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.21-03.39.23:742][603]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/MenuPrincipal548DC1AD4BA7A5555142679EA32368E5.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/MenuPrincipal.umap'
 [2022.06.21-03.39.23:762][603]AssetCheck: New page: Asset Save: MenuPrincipal
 [2022.06.21-03.39.23:763][603]LogContentValidation: Display: Validating World /Game/MyGame/MenuPrincipal.MenuPrincipal
+[2022.06.21-03.40.33:383][858]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyGame/coletavel/FlechaCol_BP.FlechaCol_BP
+[2022.06.21-03.42.16:655][951]LogRenderer: Reallocating scene render targets to support 1356x712 Format 10 NumSamples 1 (Frame:1).
+[2022.06.21-03.42.49:135][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.06.21-03.42.55:409][234]LogSlate: Window 'Save Content' being destroyed
+[2022.06.21-03.42.55:464][234]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FlechaCol_BP89FFEB3540A225D58917648B37996D75.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/coletavel/FlechaCol_BP.uasset'
+[2022.06.21-03.42.55:465][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/flechas" FILE="F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/flechas.uasset" SILENT=true
+[2022.06.21-03.42.55:505][234]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/flechas317ED4774A79B05C354721BFC90B1BCB.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/flechas.uasset'
+[2022.06.21-03.42.55:637][234]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyGame/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.06.21-03.42.55:637][234]Cmd: MAP LOAD FILE="F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.21-03.42.55:638][234]LightingResults: New page: Lighting Build
+[2022.06.21-03.42.55:638][234]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2022.06.21-03.42.55:678][234]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-03.42.55:678][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-03.42.55:678][234]MapCheck: New page: Map Check
+[2022.06.21-03.42.55:678][234]LightingResults: New page: Lighting Build
+[2022.06.21-03.42.55:720][234]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.21-03.42.55:725][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.06.21-03.42.55:727][234]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2022.06.21-03.42.55:789][234]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.21-03.42.55:789][234]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.06.21-03.42.55:847][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.06.21-03.42.55:854][234]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.21-03.42.55:854][234]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.192ms to complete.
+[2022.06.21-03.42.55:855][234]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.217
+[2022.06.21-03.42.55:873][234]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.21-03.42.55:874][234]LogContentValidation: Display: Validating Blueprint /Game/flechas.flechas
+[2022.06.21-03.42.55:874][234]LogContentValidation: Display: Validating Blueprint /Game/MyGame/coletavel/FlechaCol_BP.FlechaCol_BP
