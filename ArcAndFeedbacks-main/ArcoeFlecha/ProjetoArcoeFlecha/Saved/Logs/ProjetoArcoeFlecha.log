@@ -6178,3 +6178,769 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.21-02.05.05:064][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.06.21-02.05.05:070][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
 [2022.06.21-02.05.05:100][876]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.06.21-02.07.26:480][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.06.21-02.07.26:717][253]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FirstPersonExampleMap_Auto1B8E22A2B45DCEF1ADF8C689411640230.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/Autosaves/Game/MyGame/FirstPersonExampleMap_Auto1.umap'
+[2022.06.21-02.07.26:720][253]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyGame/FirstPersonExampleMap' took 0.260
+[2022.06.21-02.07.26:720][253]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.260
+[2022.06.21-02.07.26:721][253]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([2] browsable assets)...
+[2022.06.21-02.07.26:721][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2022.06.21-02.07.26:776][253]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FirstPersonCharacter_Auto189BFC8FC499588BD94C8A19F1E09DD7D.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2022.06.21-02.07.26:778][253]LogFileHelpers: Auto-saving content packages took 0.058
+[2022.06.21-02.08.41:727][499]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.21-02.08.41:737][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.21-02.08.41:737][499]PIE: New page: PIE session: FirstPersonExampleMap (Jun 20, 2022, 8:08:41 PM)
+[2022.06.21-02.08.41:737][499]LogPlayLevel: Creating play world package: /Game/MyGame/UEDPIE_0_FirstPersonExampleMap
+[2022.06.21-02.08.41:806][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068790s)
+[2022.06.21-02.08.41:807][499]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.06.21-02.08.41:812][499]LogPlayLevel: PIE: World Init took: (0.006547s)
+[2022.06.21-02.08.41:812][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/FirstPersonExampleMap.FirstPersonExampleMap to /Game/MyGame/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.075648s)
+[2022.06.21-02.08.41:838][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.06.21-02.08.41:839][499]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.06.21-02.08.41:839][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.21-02.08.41:839][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.21-02.08.41:839][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.21-02.08.41:839][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.21-02.08.41:839][499]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.21-02.08.41:840][499]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.21-02.08.41:840][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.21-02.08.41:840][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.21-02.08.41:840][499]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.21-02.08.41:840][499]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.21-02.08.41:840][499]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.21-02.08.41:840][499]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.21-02.08.41:844][499]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.21-02.08.41:844][499]LogAudioMixer: Display: 1: FrontRight
+[2022.06.21-02.08.41:855][499]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- DF-101)
+[2022.06.21-02.08.41:856][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.21-02.08.41:856][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.21-02.08.41:856][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.21-02.08.41:856][499]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.21-02.08.41:856][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.21-02.08.41:856][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.21-02.08.41:858][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.21-02.08.41:858][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.21-02.08.41:858][499]LogInit: FAudioDevice initialized.
+[2022.06.21-02.08.41:858][499]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2022.06.21-02.08.41:910][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.21-02.08.41:910][499]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.06.21-02.08.41:936][499]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.06.20-23.08.41
+[2022.06.21-02.08.41:943][499]LogWorld: Bringing up level for play took: 0.032821
+[2022.06.21-02.08.41:944][499]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.06.21-02.08.41:946][499]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.06.21-02.08.41:953][499]PIE: Server logged in
+[2022.06.21-02.08.41:956][499]PIE: Play in editor total start time 0.222 seconds.
+[2022.06.21-02.08.46:737][894]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_4] inimigosaiu
+[2022.06.21-02.08.46:739][894]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_5] inimigosaiu
+[2022.06.21-02.08.46:740][894]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-428.215 Y=-6595.320 Z=-1.034] for [EnemyAEsseCaraAqui_C]
+[2022.06.21-02.08.46:741][894]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_7] inimigosaiu
+[2022.06.21-02.08.57:852][772]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_2] inimigo encostou
+[2022.06.21-02.08.58:303][809]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_2] inimigo encostou
+[2022.06.21-02.08.58:740][843]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_2] inimigo encostou
+[2022.06.21-02.08.59:232][883]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_2] inimigo encostou
+[2022.06.21-02.08.59:724][923]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_2] inimigo encostou
+[2022.06.21-02.09.00:234][964]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_2] inimigo encostou
+[2022.06.21-02.09.00:354][974]LogNet: Browse: /Game/MyGame/MenuGameOver
+[2022.06.21-02.09.00:355][974]LogLoad: LoadMap: /Game/MyGame/MenuGameOver
+[2022.06.21-02.09.00:355][974]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_FirstPersonExampleMap
+[2022.06.21-02.09.00:356][974]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.09.00:361][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.09.00:385][974]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.21-02.09.00:392][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.06.21-02.09.00:400][974]LogAudio: Display: Audio Device (ID: 6) registered with world 'MenuGameOver'.
+[2022.06.21-02.09.00:401][974]LogAIModule: Creating AISystem for world MenuGameOver
+[2022.06.21-02.09.00:401][974]LogLoad: Game class is 'GameMode'
+[2022.06.21-02.09.00:401][974]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_MenuGameOver.MenuGameOver up for play (max tick rate 0) at 2022.06.20-23.09.00
+[2022.06.21-02.09.00:401][974]LogWorld: Bringing up level for play took: 0.000376
+[2022.06.21-02.09.00:402][974]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.21-02.09.00:402][974]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.09.00:402][974]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.09.00:402][974]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.09.00:403][974]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.09.00:403][974]LogLoad: Took 0.049600 seconds to LoadMap(/Game/MyGame/MenuGameOver)
+[2022.06.21-02.09.01:354][ 82]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.21-02.09.01:354][ 82]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.21-02.09.01:354][ 82]LogNet: Browse: /Game/MyGame/MenuPrincipal
+[2022.06.21-02.09.01:354][ 82]LogLoad: LoadMap: /Game/MyGame/MenuPrincipal
+[2022.06.21-02.09.01:354][ 82]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_MenuGameOver
+[2022.06.21-02.09.01:355][ 82]LogWorld: UWorld::CleanupWorld for MenuGameOver, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.09.01:355][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.09.01:397][ 82]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.21-02.09.01:400][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.06.21-02.09.01:406][ 82]LogAudio: Display: Audio Device (ID: 6) registered with world 'MenuPrincipal'.
+[2022.06.21-02.09.01:406][ 82]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.06.21-02.09.01:407][ 82]LogLoad: Game class is 'GameMode'
+[2022.06.21-02.09.01:407][ 82]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.06.20-23.09.01
+[2022.06.21-02.09.01:407][ 82]LogWorld: Bringing up level for play took: 0.000360
+[2022.06.21-02.09.01:408][ 82]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.21-02.09.01:408][ 82]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.09.01:408][ 82]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.09.01:408][ 82]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.09.01:409][ 82]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.09.01:409][ 82]LogLoad: Took 0.054658 seconds to LoadMap(/Game/MyGame/MenuPrincipal)
+[2022.06.21-02.09.03:070][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.21-02.09.03:071][270]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_MenuPrincipal
+[2022.06.21-02.09.03:071][270]LogSlate: Window 'ProjetoArcoeFlecha Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.21-02.09.03:076][270]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.09.03:076][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.09.03:086][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.21-02.09.03:090][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.09.03:111][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.21-02.09.03:112][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.21-02.09.03:117][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.06.21-02.09.03:185][272]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.06.21-02.13.06:987][834]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.21-02.13.06:995][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.21-02.13.06:995][834]PIE: New page: PIE session: FirstPersonExampleMap (Jun 20, 2022, 8:13:06 PM)
+[2022.06.21-02.13.06:995][834]LogPlayLevel: Creating play world package: /Game/MyGame/UEDPIE_0_FirstPersonExampleMap
+[2022.06.21-02.13.07:061][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065340s)
+[2022.06.21-02.13.07:062][834]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.06.21-02.13.07:062][834]LogPlayLevel: PIE: World Init took: (0.001626s)
+[2022.06.21-02.13.07:063][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/FirstPersonExampleMap.FirstPersonExampleMap to /Game/MyGame/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.067190s)
+[2022.06.21-02.13.07:090][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.06.21-02.13.07:094][834]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.06.21-02.13.07:094][834]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.21-02.13.07:094][834]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.21-02.13.07:094][834]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.21-02.13.07:094][834]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.21-02.13.07:094][834]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.21-02.13.07:094][834]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.21-02.13.07:094][834]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.21-02.13.07:094][834]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.21-02.13.07:095][834]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.21-02.13.07:095][834]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.21-02.13.07:095][834]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.21-02.13.07:095][834]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.21-02.13.07:099][834]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.21-02.13.07:099][834]LogAudioMixer: Display: 1: FrontRight
+[2022.06.21-02.13.07:109][834]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- DF-101)
+[2022.06.21-02.13.07:109][834]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.21-02.13.07:109][834]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.21-02.13.07:109][834]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.21-02.13.07:110][834]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.21-02.13.07:110][834]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.21-02.13.07:110][834]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.21-02.13.07:112][834]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.21-02.13.07:112][834]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.21-02.13.07:112][834]LogInit: FAudioDevice initialized.
+[2022.06.21-02.13.07:112][834]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2022.06.21-02.13.07:170][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.21-02.13.07:170][834]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.06.21-02.13.07:197][834]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.06.20-23.13.07
+[2022.06.21-02.13.07:204][834]LogWorld: Bringing up level for play took: 0.033936
+[2022.06.21-02.13.07:205][834]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.06.21-02.13.07:207][834]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.06.21-02.13.07:214][834]PIE: Server logged in
+[2022.06.21-02.13.07:218][834]PIE: Play in editor total start time 0.225 seconds.
+[2022.06.21-02.13.11:996][245]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-428.215 Y=-6595.320 Z=-1.034] for [EnemyAEsseCaraAqui_C]
+[2022.06.21-02.13.11:997][245]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_7] inimigosaiu
+[2022.06.21-02.13.21:427][ 24]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.13.21:567][ 36]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.13.22:003][ 73]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6136.785 Y=-220.320 Z=13.966] for [Alien2BP_C]
+[2022.06.21-02.13.22:026][ 75]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.13.22:587][122]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.13.23:017][158]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.13.23:501][200]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.13.23:617][210]LogNet: Browse: /Game/MyGame/MenuGameOver
+[2022.06.21-02.13.23:617][210]LogLoad: LoadMap: /Game/MyGame/MenuGameOver
+[2022.06.21-02.13.23:617][210]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_FirstPersonExampleMap
+[2022.06.21-02.13.23:618][210]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.13.23:624][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.13.23:675][210]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.21-02.13.23:683][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.06.21-02.13.23:691][210]LogAudio: Display: Audio Device (ID: 7) registered with world 'MenuGameOver'.
+[2022.06.21-02.13.23:692][210]LogAIModule: Creating AISystem for world MenuGameOver
+[2022.06.21-02.13.23:692][210]LogLoad: Game class is 'GameMode'
+[2022.06.21-02.13.23:693][210]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_MenuGameOver.MenuGameOver up for play (max tick rate 0) at 2022.06.20-23.13.23
+[2022.06.21-02.13.23:693][210]LogWorld: Bringing up level for play took: 0.000441
+[2022.06.21-02.13.23:693][210]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.21-02.13.23:693][210]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.13.23:693][210]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.13.23:693][210]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.13.23:695][210]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.13.23:695][210]LogLoad: Took 0.076991 seconds to LoadMap(/Game/MyGame/MenuGameOver)
+[2022.06.21-02.13.24:619][307]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.21-02.13.24:620][307]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.21-02.13.24:620][307]LogNet: Browse: /Game/MyGame/MenuPrincipal
+[2022.06.21-02.13.24:620][307]LogLoad: LoadMap: /Game/MyGame/MenuPrincipal
+[2022.06.21-02.13.24:620][307]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_MenuGameOver
+[2022.06.21-02.13.24:620][307]LogWorld: UWorld::CleanupWorld for MenuGameOver, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.13.24:620][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.13.24:670][307]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.21-02.13.24:674][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.06.21-02.13.24:685][307]LogAudio: Display: Audio Device (ID: 7) registered with world 'MenuPrincipal'.
+[2022.06.21-02.13.24:686][307]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.06.21-02.13.24:686][307]LogLoad: Game class is 'GameMode'
+[2022.06.21-02.13.24:687][307]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.06.20-23.13.24
+[2022.06.21-02.13.24:687][307]LogWorld: Bringing up level for play took: 0.000374
+[2022.06.21-02.13.24:687][307]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.21-02.13.24:688][307]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.13.24:688][307]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.13.24:688][307]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.13.24:689][307]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.13.24:689][307]LogLoad: Took 0.068420 seconds to LoadMap(/Game/MyGame/MenuPrincipal)
+[2022.06.21-02.13.30:674][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.21-02.13.30:674][  7]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_MenuPrincipal
+[2022.06.21-02.13.30:674][  7]LogSlate: Window 'ProjetoArcoeFlecha Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.21-02.13.30:679][  7]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.13.30:679][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.13.30:687][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.21-02.13.30:692][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.13.30:713][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.21-02.13.30:714][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.21-02.13.30:720][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.06.21-02.13.30:754][  9]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.06.21-02.13.31:879][127]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.21-02.13.31:887][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.21-02.13.31:887][127]PIE: New page: PIE session: FirstPersonExampleMap (Jun 20, 2022, 8:13:31 PM)
+[2022.06.21-02.13.31:887][127]LogPlayLevel: Creating play world package: /Game/MyGame/UEDPIE_0_FirstPersonExampleMap
+[2022.06.21-02.13.31:952][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064769s)
+[2022.06.21-02.13.31:953][127]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.06.21-02.13.31:954][127]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2022.06.21-02.13.31:954][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/FirstPersonExampleMap.FirstPersonExampleMap to /Game/MyGame/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.066369s)
+[2022.06.21-02.13.31:980][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.06.21-02.13.31:981][127]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.06.21-02.13.31:981][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.21-02.13.31:981][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.21-02.13.31:981][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.21-02.13.31:981][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.21-02.13.31:981][127]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.21-02.13.31:981][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.21-02.13.31:981][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.21-02.13.31:981][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.21-02.13.31:982][127]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.21-02.13.31:982][127]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.21-02.13.31:982][127]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.21-02.13.31:982][127]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.21-02.13.31:986][127]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.21-02.13.31:986][127]LogAudioMixer: Display: 1: FrontRight
+[2022.06.21-02.13.31:997][127]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- DF-101)
+[2022.06.21-02.13.31:997][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.21-02.13.31:997][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.21-02.13.31:997][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.21-02.13.31:998][127]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.21-02.13.31:998][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.21-02.13.31:998][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.21-02.13.31:999][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.21-02.13.31:999][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.21-02.13.31:999][127]LogInit: FAudioDevice initialized.
+[2022.06.21-02.13.31:999][127]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap'.
+[2022.06.21-02.13.32:054][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.21-02.13.32:054][127]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.06.21-02.13.32:081][127]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.06.20-23.13.32
+[2022.06.21-02.13.32:089][127]LogWorld: Bringing up level for play took: 0.034061
+[2022.06.21-02.13.32:089][127]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.06.21-02.13.32:091][127]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.06.21-02.13.32:099][127]PIE: Server logged in
+[2022.06.21-02.13.32:103][127]PIE: Play in editor total start time 0.216 seconds.
+[2022.06.21-02.13.34:364][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.21-02.13.34:364][323]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_FirstPersonExampleMap
+[2022.06.21-02.13.34:365][323]LogSlate: Window 'ProjetoArcoeFlecha Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.21-02.13.34:371][323]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.13.34:376][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.13.34:403][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.21-02.13.34:408][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.13.34:432][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.21-02.13.34:433][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.21-02.13.34:442][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.06.21-02.13.34:467][324]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.06.21-02.13.35:726][461]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.21-02.13.35:733][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.21-02.13.35:733][461]PIE: New page: PIE session: FirstPersonExampleMap (Jun 20, 2022, 8:13:35 PM)
+[2022.06.21-02.13.35:733][461]LogPlayLevel: Creating play world package: /Game/MyGame/UEDPIE_0_FirstPersonExampleMap
+[2022.06.21-02.13.35:800][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066133s)
+[2022.06.21-02.13.35:801][461]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.06.21-02.13.35:801][461]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2022.06.21-02.13.35:801][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/FirstPersonExampleMap.FirstPersonExampleMap to /Game/MyGame/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.067743s)
+[2022.06.21-02.13.35:826][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.06.21-02.13.35:828][461]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.06.21-02.13.35:828][461]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.21-02.13.35:828][461]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.21-02.13.35:828][461]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.21-02.13.35:828][461]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.21-02.13.35:828][461]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.21-02.13.35:828][461]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.21-02.13.35:828][461]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.21-02.13.35:828][461]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.21-02.13.35:829][461]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.21-02.13.35:829][461]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.21-02.13.35:829][461]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.21-02.13.35:829][461]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.21-02.13.35:833][461]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.21-02.13.35:833][461]LogAudioMixer: Display: 1: FrontRight
+[2022.06.21-02.13.35:844][461]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- DF-101)
+[2022.06.21-02.13.35:844][461]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.21-02.13.35:844][461]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.21-02.13.35:844][461]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.21-02.13.35:845][461]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.21-02.13.35:845][461]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.21-02.13.35:845][461]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.21-02.13.35:846][461]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.21-02.13.35:846][461]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.21-02.13.35:846][461]LogInit: FAudioDevice initialized.
+[2022.06.21-02.13.35:846][461]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonExampleMap'.
+[2022.06.21-02.13.35:888][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.21-02.13.35:888][461]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.06.21-02.13.35:921][461]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.06.20-23.13.35
+[2022.06.21-02.13.35:928][461]LogWorld: Bringing up level for play took: 0.039013
+[2022.06.21-02.13.35:928][461]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.06.21-02.13.35:931][461]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.06.21-02.13.35:936][461]PIE: Server logged in
+[2022.06.21-02.13.35:938][461]PIE: Play in editor total start time 0.205 seconds.
+[2022.06.21-02.13.40:739][903]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-428.215 Y=-6595.320 Z=-1.034] for [EnemyAEsseCaraAqui_C]
+[2022.06.21-02.13.40:740][903]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_6] inimigosaiu
+[2022.06.21-02.13.40:741][903]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_7] inimigosaiu
+[2022.06.21-02.13.45:736][367]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6136.785 Y=-220.320 Z=13.966] for [Alien2BP_C]
+[2022.06.21-02.13.49:545][720]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_2] inimigo encostou
+[2022.06.21-02.13.49:546][720]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_2] inimigo encostou
+[2022.06.21-02.13.49:557][721]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_2] inimigo encostou
+[2022.06.21-02.13.49:661][731]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_2] inimigo encostou
+[2022.06.21-02.13.50:094][772]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_2] inimigo encostou
+[2022.06.21-02.13.50:600][820]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_2] inimigo encostou
+[2022.06.21-02.13.50:738][833]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7008.215 Y=-240.320 Z=-1.034] for [Alien2BP_C]
+[2022.06.21-02.13.50:739][833]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-428.215 Y=6394.680 Z=-1.034] for [Alien2BP_C]
+[2022.06.21-02.13.50:740][833]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6136.785 Y=-220.320 Z=13.966] for [Alien2BP_C]
+[2022.06.21-02.13.51:094][867]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_2] inimigo encostou
+[2022.06.21-02.13.51:593][914]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_2] inimigo encostou
+[2022.06.21-02.13.52:103][962]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_2] inimigo encostou
+[2022.06.21-02.13.52:220][973]LogNet: Browse: /Game/MyGame/MenuGameOver
+[2022.06.21-02.13.52:220][973]LogLoad: LoadMap: /Game/MyGame/MenuGameOver
+[2022.06.21-02.13.52:220][973]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_FirstPersonExampleMap
+[2022.06.21-02.13.52:221][973]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.13.52:227][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.13.52:277][973]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.21-02.13.52:285][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.06.21-02.13.52:294][973]LogAudio: Display: Audio Device (ID: 9) registered with world 'MenuGameOver'.
+[2022.06.21-02.13.52:295][973]LogAIModule: Creating AISystem for world MenuGameOver
+[2022.06.21-02.13.52:295][973]LogLoad: Game class is 'GameMode'
+[2022.06.21-02.13.52:296][973]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_MenuGameOver.MenuGameOver up for play (max tick rate 0) at 2022.06.20-23.13.52
+[2022.06.21-02.13.52:296][973]LogWorld: Bringing up level for play took: 0.000458
+[2022.06.21-02.13.52:297][973]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.21-02.13.52:297][973]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.13.52:297][973]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.13.52:297][973]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.13.52:298][973]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.13.52:298][973]LogLoad: Took 0.078432 seconds to LoadMap(/Game/MyGame/MenuGameOver)
+[2022.06.21-02.13.53:224][ 80]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.21-02.13.53:225][ 80]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.21-02.13.53:225][ 80]LogNet: Browse: /Game/MyGame/MenuPrincipal
+[2022.06.21-02.13.53:225][ 80]LogLoad: LoadMap: /Game/MyGame/MenuPrincipal
+[2022.06.21-02.13.53:225][ 80]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_MenuGameOver
+[2022.06.21-02.13.53:225][ 80]LogWorld: UWorld::CleanupWorld for MenuGameOver, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.13.53:225][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.13.53:273][ 80]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.21-02.13.53:277][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.06.21-02.13.53:282][ 80]LogAudio: Display: Audio Device (ID: 9) registered with world 'MenuPrincipal'.
+[2022.06.21-02.13.53:283][ 80]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.06.21-02.13.53:284][ 80]LogLoad: Game class is 'GameMode'
+[2022.06.21-02.13.53:284][ 80]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.06.20-23.13.53
+[2022.06.21-02.13.53:285][ 80]LogWorld: Bringing up level for play took: 0.000438
+[2022.06.21-02.13.53:285][ 80]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.21-02.13.53:285][ 80]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.13.53:285][ 80]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.13.53:285][ 80]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.13.53:286][ 80]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.13.53:286][ 80]LogLoad: Took 0.060954 seconds to LoadMap(/Game/MyGame/MenuPrincipal)
+[2022.06.21-02.13.55:987][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.21-02.13.55:987][395]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_MenuPrincipal
+[2022.06.21-02.13.55:988][395]LogSlate: Window 'ProjetoArcoeFlecha Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.21-02.13.55:992][395]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.13.55:993][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.13.56:002][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.21-02.13.56:008][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.13.56:031][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.21-02.13.56:032][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.21-02.13.56:038][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.06.21-02.13.56:060][396]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.06.21-02.13.58:276][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.06.21-02.14.00:165][641]LogSlate: Window 'Save Content' being destroyed
+[2022.06.21-02.14.00:244][641]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FirstPersonCharacterC212ED8144B0F52C5FB37DB2113C0AA2.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.06.21-02.14.00:266][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.06.21-02.14.00:500][641]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FirstPersonExampleMapF3F1D61344597D325F59C0BEBF7B8323.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/FirstPersonExampleMap.umap'
+[2022.06.21-02.14.00:510][641]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.264
+[2022.06.21-02.14.00:544][641]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyGame/MenuPrincipal.MenuPrincipal
+[2022.06.21-02.14.00:545][641]Cmd: MAP LOAD FILE="F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/MenuPrincipal.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.21-02.14.00:545][641]LightingResults: New page: Lighting Build
+[2022.06.21-02.14.00:545][641]LoadErrors: New page: Loading map: MenuPrincipal.umap
+[2022.06.21-02.14.00:589][641]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.14.00:589][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.14.00:589][641]MapCheck: New page: Map Check
+[2022.06.21-02.14.00:589][641]LightingResults: New page: Lighting Build
+[2022.06.21-02.14.00:607][641]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.21-02.14.00:622][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.06.21-02.14.00:625][641]LogAudio: Display: Audio Device (ID: 1) registered with world 'MenuPrincipal'.
+[2022.06.21-02.14.00:627][641]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.21-02.14.00:627][641]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.06.21-02.14.00:649][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.06.21-02.14.00:654][641]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.21-02.14.00:655][641]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2022.06.21-02.14.00:655][641]LogFileHelpers: Loading map 'MenuPrincipal' took 0.110
+[2022.06.21-02.14.00:674][641]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.21-02.14.00:674][641]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.06.21-02.14.00:674][641]LogContentValidation: Display: Validating World /Game/MyGame/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.06.21-02.14.10:888][794]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MyGame/MenuPrincipal.MenuPrincipal:PersistentLevel.MenuPrincipal
+[2022.06.21-02.15.43:485][556]BlueprintLog: New page: Compile MenuPrincipal
+[2022.06.21-02.15.43:492][556]LogBlueprint: Error: [AssetLog] F:\Uniritter\ArcAndFeedbacks2\ArcAndFeedbacks-main\ArcoeFlecha\ProjetoArcoeFlecha\Content\MyGame\MenuPrincipal.umap: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2022.06.21-02.15.43:538][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.06.21-02.20.48:012][531]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FirstPersonCharacter8BCEB72B4C822A97F1C6C7864B1A441F.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.06.21-02.20.48:028][531]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.06.21-02.20.48:028][531]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.06.21-02.20.49:236][624]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.06.21-02.20.49:305][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.06.21-02.20.50:572][718]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.21-02.20.50:579][718]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.06.21-02.20.50:580][718]LogPlayLevel: [PlayLevel] Compiling MenuPrincipal before play...
+[2022.06.21-02.20.50:623][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.06.21-02.20.50:623][718]LogPlayLevel: PlayLevel: Blueprint regeneration took 44 ms (1 blueprints)
+[2022.06.21-02.20.50:623][718]PIE: New page: PIE session: MenuPrincipal (Jun 20, 2022, 8:20:50 PM)
+[2022.06.21-02.20.50:624][718]LogPlayLevel: Creating play world package: /Game/MyGame/UEDPIE_0_MenuPrincipal
+[2022.06.21-02.20.50:625][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001401s)
+[2022.06.21-02.20.50:626][718]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.06.21-02.20.50:626][718]LogPlayLevel: PIE: World Init took: (0.001135s)
+[2022.06.21-02.20.50:626][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/MenuPrincipal.MenuPrincipal to /Game/MyGame/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.002656s)
+[2022.06.21-02.20.50:649][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.06.21-02.20.50:650][718]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.06.21-02.20.50:650][718]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.21-02.20.50:650][718]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.21-02.20.50:650][718]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.21-02.20.50:650][718]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.21-02.20.50:650][718]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.21-02.20.50:650][718]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.21-02.20.50:650][718]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.21-02.20.50:650][718]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.21-02.20.50:650][718]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.21-02.20.50:650][718]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.21-02.20.50:650][718]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.21-02.20.50:650][718]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.21-02.20.50:655][718]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.21-02.20.50:655][718]LogAudioMixer: Display: 1: FrontRight
+[2022.06.21-02.20.50:666][718]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- DF-101)
+[2022.06.21-02.20.50:667][718]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.21-02.20.50:667][718]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.21-02.20.50:667][718]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.21-02.20.50:667][718]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.21-02.20.50:667][718]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.21-02.20.50:667][718]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.21-02.20.50:669][718]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.21-02.20.50:669][718]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.21-02.20.50:669][718]LogInit: FAudioDevice initialized.
+[2022.06.21-02.20.50:669][718]LogAudio: Display: Audio Device (ID: 10) registered with world 'MenuPrincipal'.
+[2022.06.21-02.20.50:721][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.21-02.20.50:721][718]LogLoad: Game class is 'GameMode'
+[2022.06.21-02.20.50:722][718]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.06.20-23.20.50
+[2022.06.21-02.20.50:722][718]LogWorld: Bringing up level for play took: 0.000402
+[2022.06.21-02.20.50:723][718]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.06.21-02.20.50:725][718]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.20.50:725][718]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.20.50:725][718]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.20.50:726][718]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.20.50:730][718]PIE: Server logged in
+[2022.06.21-02.20.50:734][718]PIE: Play in editor total start time 0.156 seconds.
+[2022.06.21-02.20.53:539][916]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.21-02.20.53:539][916]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.21-02.20.53:539][916]LogNet: Browse: /Game/MyGame/FirstPersonExampleMap
+[2022.06.21-02.20.53:539][916]LogLoad: LoadMap: /Game/MyGame/FirstPersonExampleMap
+[2022.06.21-02.20.53:539][916]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_MenuPrincipal
+[2022.06.21-02.20.53:539][916]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.20.53:540][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.20.53:601][916]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.21-02.20.53:604][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.06.21-02.20.53:605][916]LogPlayLevel: Creating play world package: /Game/MyGame/UEDPIE_0_FirstPersonExampleMap
+[2022.06.21-02.20.53:680][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074991s)
+[2022.06.21-02.20.53:681][916]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.06.21-02.20.53:681][916]LogPlayLevel: PIE: World Init took: (0.001552s)
+[2022.06.21-02.20.53:682][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/FirstPersonExampleMap.FirstPersonExampleMap to /Game/MyGame/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.076820s)
+[2022.06.21-02.20.53:682][916]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonExampleMap'.
+[2022.06.21-02.20.53:682][916]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.06.21-02.20.53:715][916]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.06.20-23.20.53
+[2022.06.21-02.20.53:723][916]LogWorld: Bringing up level for play took: 0.040545
+[2022.06.21-02.20.53:725][916]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.06.21-02.20.53:729][916]LogLoad: Took 0.189547 seconds to LoadMap(/Game/MyGame/UEDPIE_0_FirstPersonExampleMap)
+[2022.06.21-02.20.58:555][171]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_7] inimigosaiu
+[2022.06.21-02.21.03:557][439]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_7] inimigosaiu
+[2022.06.21-02.21.03:558][439]LogBlueprintUserMessages: [EnemyAEsseCaraAqui_C_7] inimigosaiu
+[2022.06.21-02.21.05:446][541]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.21.05:790][560]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.21.06:191][582]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.21.06:661][608]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.21.07:168][636]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.21.07:672][664]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.21.07:796][671]LogNet: Browse: /Game/MyGame/MenuGameOver
+[2022.06.21-02.21.07:796][671]LogLoad: LoadMap: /Game/MyGame/MenuGameOver
+[2022.06.21-02.21.07:796][671]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_FirstPersonExampleMap
+[2022.06.21-02.21.07:798][671]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.21.07:803][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.21.07:856][671]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.21-02.21.07:863][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.06.21-02.21.07:872][671]LogAudio: Display: Audio Device (ID: 10) registered with world 'MenuGameOver'.
+[2022.06.21-02.21.07:873][671]LogAIModule: Creating AISystem for world MenuGameOver
+[2022.06.21-02.21.07:873][671]LogLoad: Game class is 'GameMode'
+[2022.06.21-02.21.07:873][671]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_MenuGameOver.MenuGameOver up for play (max tick rate 0) at 2022.06.20-23.21.07
+[2022.06.21-02.21.07:873][671]LogWorld: Bringing up level for play took: 0.000394
+[2022.06.21-02.21.07:873][671]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.21-02.21.07:873][671]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.21.07:873][671]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.21.07:873][671]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.21.07:875][671]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.21.07:875][671]LogLoad: Took 0.078488 seconds to LoadMap(/Game/MyGame/MenuGameOver)
+[2022.06.21-02.21.08:807][734]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.21-02.21.08:807][734]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.21-02.21.08:807][734]LogNet: Browse: /Game/MyGame/MenuPrincipal
+[2022.06.21-02.21.08:807][734]LogLoad: LoadMap: /Game/MyGame/MenuPrincipal
+[2022.06.21-02.21.08:807][734]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_MenuGameOver
+[2022.06.21-02.21.08:808][734]LogWorld: UWorld::CleanupWorld for MenuGameOver, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.21.08:808][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.21.08:853][734]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.21-02.21.08:856][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.06.21-02.21.08:857][734]LogPlayLevel: Creating play world package: /Game/MyGame/UEDPIE_0_MenuPrincipal
+[2022.06.21-02.21.08:858][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001440s)
+[2022.06.21-02.21.08:859][734]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.06.21-02.21.08:859][734]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2022.06.21-02.21.08:859][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/MenuPrincipal.MenuPrincipal to /Game/MyGame/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.002611s)
+[2022.06.21-02.21.08:859][734]LogAudio: Display: Audio Device (ID: 10) registered with world 'MenuPrincipal'.
+[2022.06.21-02.21.08:860][734]LogLoad: Game class is 'GameMode'
+[2022.06.21-02.21.08:860][734]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.06.20-23.21.08
+[2022.06.21-02.21.08:860][734]LogWorld: Bringing up level for play took: 0.000302
+[2022.06.21-02.21.08:861][734]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.21-02.21.08:861][734]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.21.08:862][734]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.21.08:862][734]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.21.08:862][734]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.21.08:862][734]LogLoad: Took 0.055464 seconds to LoadMap(/Game/MyGame/UEDPIE_0_MenuPrincipal)
+[2022.06.21-02.21.13:464][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.21-02.21.13:464][986]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_MenuPrincipal
+[2022.06.21-02.21.13:465][986]LogSlate: Window 'ProjetoArcoeFlecha Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.21-02.21.13:471][986]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.21.13:471][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.21.13:481][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.21-02.21.13:487][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.21.13:509][986]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.21-02.21.13:510][986]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.21-02.21.13:514][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.06.21-02.21.13:546][987]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.06.21-02.22.13:404][639]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.06.21-02.22.13:469][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.06.21-02.23.08:757][759]BlueprintLog: New page: Compile MenuPrincipal
+[2022.06.21-02.23.08:798][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2022.06.21-02.23.09:651][844]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.21-02.23.09:658][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.21-02.23.09:658][844]PIE: New page: PIE session: MenuPrincipal (Jun 20, 2022, 8:23:09 PM)
+[2022.06.21-02.23.09:659][844]LogPlayLevel: Creating play world package: /Game/MyGame/UEDPIE_0_MenuPrincipal
+[2022.06.21-02.23.09:660][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001427s)
+[2022.06.21-02.23.09:661][844]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.06.21-02.23.09:661][844]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2022.06.21-02.23.09:661][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/MenuPrincipal.MenuPrincipal to /Game/MyGame/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.002565s)
+[2022.06.21-02.23.09:685][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.06.21-02.23.09:686][844]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.06.21-02.23.09:686][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.21-02.23.09:686][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.21-02.23.09:686][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.21-02.23.09:686][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.21-02.23.09:686][844]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.21-02.23.09:686][844]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.21-02.23.09:686][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.21-02.23.09:686][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.21-02.23.09:687][844]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.21-02.23.09:687][844]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.21-02.23.09:687][844]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.21-02.23.09:687][844]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.21-02.23.09:692][844]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.21-02.23.09:692][844]LogAudioMixer: Display: 1: FrontRight
+[2022.06.21-02.23.09:703][844]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- DF-101)
+[2022.06.21-02.23.09:704][844]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.21-02.23.09:704][844]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.21-02.23.09:704][844]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.21-02.23.09:704][844]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.21-02.23.09:704][844]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.21-02.23.09:704][844]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.21-02.23.09:706][844]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.21-02.23.09:706][844]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.21-02.23.09:706][844]LogInit: FAudioDevice initialized.
+[2022.06.21-02.23.09:706][844]LogAudio: Display: Audio Device (ID: 11) registered with world 'MenuPrincipal'.
+[2022.06.21-02.23.09:759][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.21-02.23.09:759][844]LogLoad: Game class is 'GameMode'
+[2022.06.21-02.23.09:760][844]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.06.20-23.23.09
+[2022.06.21-02.23.09:760][844]LogWorld: Bringing up level for play took: 0.000401
+[2022.06.21-02.23.09:760][844]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.06.21-02.23.09:763][844]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.23.09:763][844]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.23.09:763][844]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.23.09:764][844]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.23.09:766][844]PIE: Server logged in
+[2022.06.21-02.23.09:768][844]PIE: Play in editor total start time 0.111 seconds.
+[2022.06.21-02.23.12:691][117]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.21-02.23.12:691][117]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.21-02.23.12:691][117]LogNet: Browse: /Game/MyGame/FirstPersonExampleMap
+[2022.06.21-02.23.12:691][117]LogLoad: LoadMap: /Game/MyGame/FirstPersonExampleMap
+[2022.06.21-02.23.12:691][117]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_MenuPrincipal
+[2022.06.21-02.23.12:691][117]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.23.12:692][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.23.12:749][117]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.21-02.23.12:752][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.06.21-02.23.12:753][117]LogPlayLevel: Creating play world package: /Game/MyGame/UEDPIE_0_FirstPersonExampleMap
+[2022.06.21-02.23.12:824][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070913s)
+[2022.06.21-02.23.12:825][117]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.06.21-02.23.12:826][117]LogPlayLevel: PIE: World Init took: (0.001765s)
+[2022.06.21-02.23.12:826][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/FirstPersonExampleMap.FirstPersonExampleMap to /Game/MyGame/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.072956s)
+[2022.06.21-02.23.12:826][117]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonExampleMap'.
+[2022.06.21-02.23.12:826][117]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.06.21-02.23.12:865][117]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.06.20-23.23.12
+[2022.06.21-02.23.12:873][117]LogWorld: Bringing up level for play took: 0.046075
+[2022.06.21-02.23.12:875][117]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.06.21-02.23.12:879][117]LogLoad: Took 0.188104 seconds to LoadMap(/Game/MyGame/UEDPIE_0_FirstPersonExampleMap)
+[2022.06.21-02.23.17:695][448]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6136.785 Y=-220.320 Z=13.966] for [EnemyAEsseCaraAqui_C]
+[2022.06.21-02.23.17:696][448]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7008.215 Y=-240.320 Z=-1.034] for [EnemyAEsseCaraAqui_C]
+[2022.06.21-02.23.22:705][797]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6136.785 Y=-220.320 Z=13.966] for [Alien2BP_C]
+[2022.06.21-02.23.23:476][850]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.23.23:751][870]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.23.24:178][901]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.23.24:673][937]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.23.25:171][973]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.23.25:676][ 10]LogBlueprintUserMessages: [EnemyA_2] inimigo encostou
+[2022.06.21-02.23.25:801][ 19]LogNet: Browse: /Game/MyGame/MenuGameOver
+[2022.06.21-02.23.25:801][ 19]LogLoad: LoadMap: /Game/MyGame/MenuGameOver
+[2022.06.21-02.23.25:801][ 19]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_FirstPersonExampleMap
+[2022.06.21-02.23.25:803][ 19]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.23.25:809][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.23.25:835][ 19]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.21-02.23.25:842][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.06.21-02.23.25:849][ 19]LogAudio: Display: Audio Device (ID: 11) registered with world 'MenuGameOver'.
+[2022.06.21-02.23.25:850][ 19]LogAIModule: Creating AISystem for world MenuGameOver
+[2022.06.21-02.23.25:850][ 19]LogLoad: Game class is 'GameMode'
+[2022.06.21-02.23.25:851][ 19]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_MenuGameOver.MenuGameOver up for play (max tick rate 0) at 2022.06.20-23.23.25
+[2022.06.21-02.23.25:851][ 19]LogWorld: Bringing up level for play took: 0.000387
+[2022.06.21-02.23.25:852][ 19]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.21-02.23.25:852][ 19]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.23.25:852][ 19]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.23.25:852][ 19]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.23.25:853][ 19]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.23.25:853][ 19]LogLoad: Took 0.051572 seconds to LoadMap(/Game/MyGame/MenuGameOver)
+[2022.06.21-02.23.26:801][106]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.21-02.23.26:801][106]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.21-02.23.26:801][106]LogNet: Browse: /Game/MyGame/MenuPrincipal
+[2022.06.21-02.23.26:801][106]LogLoad: LoadMap: /Game/MyGame/MenuPrincipal
+[2022.06.21-02.23.26:801][106]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_MenuGameOver
+[2022.06.21-02.23.26:802][106]LogWorld: UWorld::CleanupWorld for MenuGameOver, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.23.26:802][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.23.26:860][106]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.21-02.23.26:864][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.06.21-02.23.26:865][106]LogPlayLevel: Creating play world package: /Game/MyGame/UEDPIE_0_MenuPrincipal
+[2022.06.21-02.23.26:866][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001468s)
+[2022.06.21-02.23.26:867][106]LogAIModule: Creating AISystem for world MenuPrincipal
+[2022.06.21-02.23.26:867][106]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2022.06.21-02.23.26:867][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/MenuPrincipal.MenuPrincipal to /Game/MyGame/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.002707s)
+[2022.06.21-02.23.26:867][106]LogAudio: Display: Audio Device (ID: 11) registered with world 'MenuPrincipal'.
+[2022.06.21-02.23.26:868][106]LogLoad: Game class is 'GameMode'
+[2022.06.21-02.23.26:868][106]LogWorld: Bringing World /Game/MyGame/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 0) at 2022.06.20-23.23.26
+[2022.06.21-02.23.26:868][106]LogWorld: Bringing up level for play took: 0.000330
+[2022.06.21-02.23.26:869][106]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.21-02.23.26:869][106]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.23.26:869][106]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.21-02.23.26:869][106]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.23.26:870][106]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.21-02.23.26:870][106]LogLoad: Took 0.068909 seconds to LoadMap(/Game/MyGame/UEDPIE_0_MenuPrincipal)
+[2022.06.21-02.23.33:012][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.21-02.23.33:014][679]LogWorld: BeginTearingDown for /Game/MyGame/UEDPIE_0_MenuPrincipal
+[2022.06.21-02.23.33:014][679]LogSlate: Window 'ProjetoArcoeFlecha Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.21-02.23.33:059][679]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.23.33:060][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.23.33:070][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.21-02.23.33:075][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.23.33:096][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.21-02.23.33:098][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.21-02.23.33:103][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.06.21-02.23.33:130][680]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.06.21-02.23.41:523][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.06.21-02.23.43:041][631]LogSlate: Window 'Save Content' being destroyed
+[2022.06.21-02.23.43:114][631]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FirstPersonCharacterEF577A534F77A265BEE85584388931FA.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.06.21-02.23.43:193][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.06.21-02.23.43:426][631]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/FirstPersonExampleMap48AEF39249D4CA84A284E48D96E890B2.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/FirstPersonExampleMap.umap'
+[2022.06.21-02.23.43:460][631]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.345
+[2022.06.21-02.23.43:491][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.06.21-02.23.43:499][631]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/MenuPrincipal4F1F9C9A4574775F50D3C1BCC71F7AE7.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/MenuPrincipal.umap'
+[2022.06.21-02.23.43:524][631]LogFileHelpers: Saving map 'MenuPrincipal' took 0.064
+[2022.06.21-02.23.43:550][631]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyGame/MenuGameOver.MenuGameOver
+[2022.06.21-02.23.43:551][631]Cmd: MAP LOAD FILE="F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/MenuGameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.21-02.23.43:551][631]LightingResults: New page: Lighting Build
+[2022.06.21-02.23.43:551][631]LoadErrors: New page: Loading map: MenuGameOver.umap
+[2022.06.21-02.23.43:568][631]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.23.43:568][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.23.43:615][631]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.23.43:615][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.23.43:615][631]MapCheck: New page: Map Check
+[2022.06.21-02.23.43:615][631]LightingResults: New page: Lighting Build
+[2022.06.21-02.23.43:634][631]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.21-02.23.43:639][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.06.21-02.23.43:663][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.06.21-02.23.43:682][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.06.21-02.23.43:682][631]LogAudio: Display: Audio Device (ID: 1) registered with world 'MenuGameOver'.
+[2022.06.21-02.23.43:683][631]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.21-02.23.43:683][631]LogAIModule: Creating AISystem for world MenuGameOver
+[2022.06.21-02.23.43:706][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.06.21-02.23.43:712][631]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.21-02.23.43:713][631]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2022.06.21-02.23.43:713][631]LogFileHelpers: Loading map 'MenuGameOver' took 0.162
+[2022.06.21-02.23.43:731][631]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.21-02.23.43:731][631]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.06.21-02.23.43:731][631]LogContentValidation: Display: Validating World /Game/MyGame/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.06.21-02.23.43:731][631]LogContentValidation: Display: Validating World /Game/MyGame/MenuPrincipal.MenuPrincipal
+[2022.06.21-02.23.45:729][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.06.21-02.23.45:745][863]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyGame/MenuGameOver.MenuGameOver
+[2022.06.21-02.23.45:745][863]Cmd: MAP LOAD FILE="F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/MenuGameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.21-02.23.45:745][863]LightingResults: New page: Lighting Build
+[2022.06.21-02.23.45:745][863]LoadErrors: New page: Loading map: MenuGameOver.umap
+[2022.06.21-02.23.45:772][863]LogWorld: UWorld::CleanupWorld for MenuGameOver, bSessionEnded=true, bCleanupResources=true
+[2022.06.21-02.23.45:772][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.21-02.23.45:772][863]MapCheck: New page: Map Check
+[2022.06.21-02.23.45:772][863]LightingResults: New page: Lighting Build
+[2022.06.21-02.23.45:792][863]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.21-02.23.45:795][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.06.21-02.23.45:817][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.06.21-02.23.45:839][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.06.21-02.23.45:860][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.06.21-02.23.45:866][863]LogAudio: Display: Audio Device (ID: 1) registered with world 'MenuGameOver'.
+[2022.06.21-02.23.45:867][863]LogAIModule: Creating AISystem for world MenuGameOver
+[2022.06.21-02.23.45:869][863]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.21-02.23.45:892][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.06.21-02.23.45:900][863]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.21-02.23.45:900][863]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2022.06.21-02.23.45:900][863]LogFileHelpers: Loading map 'MenuGameOver' took 0.155
+[2022.06.21-02.23.49:009][208]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MyGame/MenuGameOver.MenuGameOver:PersistentLevel.MenuGameOver
+[2022.06.21-02.23.56:073][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.06.21-02.23.56:079][913]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/MenuGameOverBC6A8CA84C9C47463BE10D8E86C98BF0.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/MenuGameOver.umap'
+[2022.06.21-02.23.56:087][913]LogFileHelpers: Saving map 'MenuGameOver' took 0.042
+[2022.06.21-02.23.56:102][913]AssetCheck: New page: Asset Save: MenuGameOver
+[2022.06.21-02.23.56:102][913]LogContentValidation: Display: Validating World /Game/MyGame/MenuGameOver.MenuGameOver
+[2022.06.21-02.23.57:488][ 65]BlueprintLog: New page: Compile MenuGameOver
+[2022.06.21-02.23.57:527][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.06.21-02.24.04:288][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.06.21-02.24.04:295][829]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/MenuGameOver3DD9E3AC4EEF0D01B8B242A084EE2C14.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/MenuGameOver.umap'
+[2022.06.21-02.24.04:315][829]AssetCheck: New page: Asset Save: MenuGameOver
+[2022.06.21-02.24.04:315][829]LogContentValidation: Display: Validating World /Game/MyGame/MenuGameOver.MenuGameOver
+[2022.06.21-02.24.04:885][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.06.21-02.24.04:890][892]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/MenuGameOverF7BD192A4D55EF5A4C279AA55D6343C1.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/MenuGameOver.umap'
+[2022.06.21-02.24.04:910][892]AssetCheck: New page: Asset Save: MenuGameOver
+[2022.06.21-02.24.04:910][892]LogContentValidation: Display: Validating World /Game/MyGame/MenuGameOver.MenuGameOver
+[2022.06.21-02.24.05:070][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.06.21-02.24.05:076][906]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/MenuGameOverCD6C15E147274AC97F77C0B108CF7224.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/MenuGameOver.umap'
+[2022.06.21-02.24.05:093][906]AssetCheck: New page: Asset Save: MenuGameOver
+[2022.06.21-02.24.05:093][906]LogContentValidation: Display: Validating World /Game/MyGame/MenuGameOver.MenuGameOver
+[2022.06.21-02.24.05:253][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.06.21-02.24.05:258][920]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/MenuGameOver14514AE6442D9D55875D92BF29DB78F3.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/MenuGameOver.umap'
+[2022.06.21-02.24.05:277][920]AssetCheck: New page: Asset Save: MenuGameOver
+[2022.06.21-02.24.05:277][920]LogContentValidation: Display: Validating World /Game/MyGame/MenuGameOver.MenuGameOver
+[2022.06.21-02.24.05:434][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.06.21-02.24.05:440][935]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/MenuGameOver9C986CEE417A507AE391C5905CD95918.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/MenuGameOver.umap'
+[2022.06.21-02.24.05:459][935]AssetCheck: New page: Asset Save: MenuGameOver
+[2022.06.21-02.24.05:459][935]LogContentValidation: Display: Validating World /Game/MyGame/MenuGameOver.MenuGameOver
+[2022.06.21-02.24.05:634][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.06.21-02.24.05:640][952]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/MenuGameOver941061294D97C9AFCF5C2A88394B94DE.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/MenuGameOver.umap'
+[2022.06.21-02.24.05:660][952]AssetCheck: New page: Asset Save: MenuGameOver
+[2022.06.21-02.24.05:660][952]LogContentValidation: Display: Validating World /Game/MyGame/MenuGameOver.MenuGameOver
+[2022.06.21-02.24.05:833][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.06.21-02.24.05:839][968]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/MenuGameOver9BBA6861428F1CA3B0F9488B2FD2BAA7.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/MenuGameOver.umap'
+[2022.06.21-02.24.05:857][968]AssetCheck: New page: Asset Save: MenuGameOver
+[2022.06.21-02.24.05:857][968]LogContentValidation: Display: Validating World /Game/MyGame/MenuGameOver.MenuGameOver
+[2022.06.21-02.24.06:003][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.06.21-02.24.06:009][981]LogSavePackage: Moving 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Saved/MenuGameOverF0C75E604741ADC9C938BDA01F2D70BF.tmp' to 'F:/Uniritter/ArcAndFeedbacks2/ArcAndFeedbacks-main/ArcoeFlecha/ProjetoArcoeFlecha/Content/MyGame/MenuGameOver.umap'
+[2022.06.21-02.24.06:033][981]AssetCheck: New page: Asset Save: MenuGameOver
+[2022.06.21-02.24.06:033][981]LogContentValidation: Display: Validating World /Game/MyGame/MenuGameOver.MenuGameOver
